@@ -1,1 +1,1 @@
-# Nariman
+Bu videodərsdə Power Pivot və Power Query-nin köməkliyi ilə Plan-Fakt analizinə baxılıb. Analizin əsas məqsədi faktiki satışın nəzərdə tutulanla müqayisəsidir. Qeyd olunan nümunədə datalar analizə uyğun deyil, ona görə ilk növbədə data Power Query ilə normallaşdırlıb, daha sonra  Power Pivot-un köməkliyi ilə çoxun-çoxa (many-to-many) əlaqəsi yaradılaraq data model qurulub.
